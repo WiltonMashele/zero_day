@@ -1,3 +1,8 @@
+~~~~
 This is a
 piece of code
-in a block.
+in a block
+~~~~
+```
+This too
+```
